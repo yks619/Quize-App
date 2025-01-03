@@ -8,7 +8,7 @@ option1: "Sydney",
 option2: "Melbourne",
 option3: "Canberra",
 option4: "Perth",
-Ans: 1,
+Ans: 3,
 },
 
 {
@@ -160,5 +160,66 @@ option3: "United States",
 option4: "China",
 Ans: 2,
 },
+
+{
+    question: "What is the Capital of France?",
+
+option1: "London",
+option2: "Madrid",
+option3: "Paris",
+option4: "Rome",
+Ans: 3,
+},
+
+{
+    question: "Who wrote Romeo and Juliet?",
+
+option1: "Charles Dickens",
+option2: "William Shakespeare",
+option3: "Jane Austen",
+option4: "Mark Twain",
+Ans: 2,
+},
+
+{
+    question: "What is the largest organ in the human body?",
+
+option1: "Heart",
+option2: "Brain",
+option3: "Liver",
+option4: "Skin",
+Ans: 4,
+},
+
+{
+    question: "Who painted the Mona Lisa?",
+
+option1: "Vincent Van Gogh",
+option2: "Pablo Picasso",
+option3: "Leonardo Vinci",
+option4: "Michelangelo",
+Ans: 3,
+},
+
+{
+    question: "What is the capital of Japan?",
+
+option1: "Beijing",
+option2: "Seoul",
+option3: "Tokyo",
+option4: "Bangkok",
+Ans: 3,
+},
+
+{
+    question: "What is the main component of the Sun?",
+
+option1: "Oxygen",
+option2: "Carbon",
+option3: "Helium",
+option4: "Hydrogen",
+Ans: 4,
+},
+
 
 ]
